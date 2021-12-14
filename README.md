@@ -25,5 +25,6 @@ Windows10 환경에서 Python 설치 및 학습을 진행한다.
  다운 받은 install 파일을 실행하여 설치해준다.
  ![Alt text](./image/install.png)
 
- 설치가 다 된 후 cmd 창에서 아래와 같이 버그를 확인해준다. 
-    
+ 설치가 다 된 후 cmd 창에서 아래와 같이 설치버전을 확인해준다. 
+ ![Alt text](./image/python1.png)
+
