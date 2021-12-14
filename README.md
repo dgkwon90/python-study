@@ -58,6 +58,11 @@ print('넓이:', area)
 ```
 위 와 같이 입력 후 IDE tool에서 실행하거나, cmd를 통해 실행결과를 확인한다.
 ![Alt text](./image/python4.png)
+
 정상적으로 잘 나온 것을 확인할 수 있다.
 
-이제부터 tutorial을 통해서 파이썬의 기본 문법에 대해서 알아보자.
+이제부터 tutorial 통해서 파이썬의 기본 문법에 대해서 알아보자.<br>
+기본 문법에 대해서는 아래 사이트에 있으며, <br> 
+일부분 중요한 내용을 실제로 코딩해보며 익히도록 하겠다.
+
+https://docs.python.org/ko/3/tutorial/index.html
