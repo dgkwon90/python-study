@@ -22,9 +22,4 @@ Windows10 환경에서 Python 설치 및 학습을 진행한다.
     - 여기서 Stable Releases 로 안정성이 보장된 3.10.1 버전과 64bit 환경의 instraller 를 받도록 한다.
  
  ### 2. Python 설치하기
- ssss
- s
- ss
- s
- s
  
