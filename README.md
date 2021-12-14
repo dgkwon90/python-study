@@ -36,8 +36,13 @@ Windows10 환경에서 Python 설치 및 학습을 진행한다.
 ---
 
 ## Python shell "Hi" 찍기
-### cmd 창에서 python 진입 후 Hi를 입력한다.
+### cmd 창에서 python 진입 후 아래와 같이 입력한다.
+``` python
+s= 'Hi'
+str(s)
+```
 ![Alt text](./image/python3.png)
+정사적으로 Hi가 나오는 것을 볼 수 있다.
 
 ## Python py 만들어서 실행해 보기
 ### test01 이라는 폴더를 생성 후 그안에 test01.py를 만들었다. 
@@ -53,7 +58,6 @@ print('넓이:', area)
 ```
 위 와 같이 입력 후 IDE tool에서 실행하거나, cmd를 통해 실행결과를 확인한다.
 ![Alt text](./image/python4.png)
-
 정상적으로 잘 나온 것을 확인할 수 있다.
 
 이제부터 tutorial을 통해서 파이썬의 기본 문법에 대해서 알아보자.
