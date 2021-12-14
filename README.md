@@ -28,3 +28,7 @@ Windows10 환경에서 Python 설치 및 학습을 진행한다.
  설치가 다 된 후 cmd 창에서 아래와 같이 설치버전을 확인해준다. 
  ![Alt text](./image/python1.png)
 
+ ### 3. EDIT설정하기
+ 우리는 Visual Studio Code 사용하여 Python을 환경을 만들어준다.
+  - 확장 프로그램에서 Python검색하여 설치를 해준다.
+  ![Alt text](./image/python2.png)
